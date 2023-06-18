@@ -38,7 +38,7 @@
                                 /* all three buttons are horizontally arranged by display flex*/
   width:40%;
   margin:0 auto;
-  height:100px;
+
  
   display: flex;
   flex-flow: row wrap;
